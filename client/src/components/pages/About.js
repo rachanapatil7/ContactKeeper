@@ -8,7 +8,7 @@ const About = () => {
         Ful stacka pp for keeping contacts
       </p>
       <p className="bg-dark p">
-        <strong> Version 1.0.0.</strong>
+        <strong> Version </strong>1.0.0
       </p>
     </div>
   )
